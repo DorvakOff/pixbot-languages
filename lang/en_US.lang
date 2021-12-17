@@ -27,7 +27,6 @@ embeds.information.discord: "Our discord"
 
 embeds.help.title: "PixBot - Help"
 
-embeds.commands.level.title: "%USER%'s exp"
 embeds.commands.top.title: "Top in %GUILD%"
 embeds.commands.globaltop.title: "Top across all servers"
 

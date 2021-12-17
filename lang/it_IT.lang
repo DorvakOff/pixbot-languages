@@ -27,7 +27,6 @@ embeds.information.discord: "Il nostro discord"
 
 embeds.help.title: "PixBot - Aiuto"
 
-embeds.commands.level.title: "Esperienza di %USER%"
 embeds.commands.top.title: "Classifica in %GUILD%"
 embeds.commands.globaltop.title: "Classifica tra tutti i server"
 
