@@ -8,6 +8,7 @@ command.invalid-args: "Use /%COMMAND% with options !"
 
 error.not-in-bounds: "'%VAR%' cannot be > %MAX% or < %MIN% !"
 error.nothing-to-delete: "Nothing to delete... (maybe messages are older than 2 weeks?)"
+error.need-text-channel: "Please provide a valid text channel"
 
 command.mod.description: "%TARGET% has been sanctionned"
 command.mod.reason: "Reason"
@@ -19,6 +20,9 @@ command.mod.deleted-messages: "Deleted %AMOUNT% message(s)"
 
 command.config.select-lang-below: "Select a lang below"
 command.config.select-roles-below: "Select roles to remove when muted (the bot add them automatically after the sanction is done)"
+command.config.quotes: "Level up quotes:"
+command.config.quotes-disabled: "Disabled level-up messages"
+command.config.quotes-enabled: "Enabled level-up messages"
 
 embeds.information.title: "PixBot - Information"
 embeds.information.body: "Pix is a new multitool bot, helps you through his lot of features to manage and improve your discord experience !\n\n Version ``%VERSION%``\n Made with :heart: by %OWNER% \n\n Managing **%TOTAL_USERS%** unique users across **%TOTAL_SERVERS%** servers."
@@ -54,3 +58,7 @@ variables.lang-changed: "Lang changed to ``%LANG%``"
 variables.config.mute: "Mute configuration"
 variables.roles-selected: "You have selected the role(s) %ROLES%"
 variables.roles-no-selection: "No roles selected"
+variables.no-data: "Nothing could be found"
+variables.channel: "Channel"
+
+announcements.user.levelup: "Well played %USER%! You're now **level %LEVEL%**! :zap:"

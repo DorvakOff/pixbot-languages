@@ -8,6 +8,7 @@ command.invalid-args: "Utilisez /%COMMAND% avec des options !"
 
 error.not-in-bounds: "'%VAR%' ne peux pas être > %MAX% ou < %MIN% !"
 error.nothing-to-delete: "Rien à supprimer... (peut être que les messages sont plus vieux que 2 semaines?)"
+error.need-text-channel: "Veuillez saisir un salon textuel valide"
 
 command.mod.description: "%TARGET% a été sanctionné"
 command.mod.reason: "Motif"
@@ -19,6 +20,9 @@ command.mod.deleted-messages: "%AMOUNT% message(s) supprimé(s)"
 
 command.config.select-lang-below: "Selectionnez une langue ci-dessous"
 command.config.select-roles-below: "Selectionnez des roles ci-dessous (Les roles sont rendus automatiquement quand le joueur n'est plus muet)"
+command.config.quotes: "Messages de gain de niveau :"
+command.config.quotes-disabled: "Les messages de gains de niveaux sont désormais désactivés"
+command.config.quotes-enabled: "Les messages de gains de niveaux sont désormais activés"
 
 embeds.information.title: "PixBot - Informations"
 embeds.information.body: "Pix est un nouveau bot multi-fonction, il vous aide via sa multitude de fonctionnalités à gérer et améliorer votre expérience sur discord !\n\n Version ``%VERSION%``\n Développé avec :heart: par %OWNER% \n\n Gère **%TOTAL_USERS%** utilisateurs uniques à travers **%TOTAL_SERVERS%** serveurs."
@@ -53,3 +57,7 @@ variables.lang-changed: "Langue changée à ``%LANG%``"
 variables.config.mute: "Configurer le mute"
 variables.roles-selected: "Vous avez choisi le(s) rôle(s) : %ROLES%"
 variables.roles-no-selection: "Aucun rôle n'a été choisi"
+variables.no-data: "Rien n'a pu être trouvé"
+variables.channel: "Salon"
+
+announcements.user.levelup: "Bien joué %USER% ! Tu es désormais **niveau %LEVEL%** ! :zap:"
