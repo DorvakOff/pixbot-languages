@@ -25,7 +25,7 @@ command.config.quotes-disabled: "I messaggi di guadagno di livello ora sono disa
 command.config.quotes-enabled: "I messaggi di guadagno di livello sono ora abilitati"
 
 embeds.information.title: "PixBot - Informazioni"
-embeds.information.body: "Pix è un nuovo bot multitool, ti aiuta attraverso le sue numerose funzionalità per gestire e migliorare la tua esperienza di discord !\n\n Versione ``%VERSION%``\n Fatto con :heart: da %OWNER% \n\n Gestisce **%TOTAL_USERS%** utenti unici **%TOTAL_SERVERS%** server."
+embeds.information.body: "Pix è un nuovo bot multitool, ti aiuta attraverso le sue numerose funzionalità per gestire e migliorare la tua esperienza di discord !\n\n Versione ``%VERSION%``\n Fatto con :heart: da %OWNER% \n\n Usato in **%TOTAL_SERVERS%** server."
 embeds.information.invite: "Vuoi aggiunger il bot"
 embeds.information.discord: "Il nostro discord"
 

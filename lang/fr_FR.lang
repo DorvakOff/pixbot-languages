@@ -25,7 +25,7 @@ command.config.quotes-disabled: "Les messages de gains de niveaux sont désormai
 command.config.quotes-enabled: "Les messages de gains de niveaux sont désormais activés"
 
 embeds.information.title: "PixBot - Informations"
-embeds.information.body: "Pix est un nouveau bot multi-fonction, il vous aide via sa multitude de fonctionnalités à gérer et améliorer votre expérience sur discord !\n\n Version ``%VERSION%``\n Développé avec :heart: par %OWNER% \n\n Gère **%TOTAL_USERS%** utilisateurs uniques à travers **%TOTAL_SERVERS%** serveurs."
+embeds.information.body: "Pix est un nouveau bot multi-fonction, il vous aide via sa multitude de fonctionnalités à gérer et améliorer votre expérience sur discord !\n\n Version ``%VERSION%``\n Développé avec :heart: par %OWNER% \n\n Utilisé dans **%TOTAL_SERVERS%** serveurs."
 embeds.information.invite: "Tu veux ajouter le bot ?"
 embeds.information.discord: "Notre Discord"
 

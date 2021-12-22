@@ -25,7 +25,7 @@ command.config.quotes-disabled: "Disabled level-up messages"
 command.config.quotes-enabled: "Enabled level-up messages"
 
 embeds.information.title: "PixBot - Information"
-embeds.information.body: "Pix is a new multitool bot, helps you through his lot of features to manage and improve your discord experience !\n\n Version ``%VERSION%``\n Made with :heart: by %OWNER% \n\n Managing **%TOTAL_USERS%** unique users across **%TOTAL_SERVERS%** servers."
+embeds.information.body: "Pix is a new multitool bot, helps you through his lot of features to manage and improve your discord experience !\n\n Version ``%VERSION%``\n Made with :heart: by %OWNER% \n\n Used in **%TOTAL_SERVERS%** servers."
 embeds.information.invite: "Wanna add the bot"
 embeds.information.discord: "Our discord"
 
