@@ -7,8 +7,9 @@ command.done: "C'est fait !"
 command.invalid-args: "Utilisez /%COMMAND% avec des options !"
 
 error.not-in-bounds: "'%VAR%' ne peux pas être > %MAX% ou < %MIN% !"
-error.nothing-to-delete: "Rien à supprimer... (peut être que les messages sont plus vieux que 2 semaines?)"
+error.nothing-to-delete: "Rien à supprimer... (peut être que les messages sont plus vieux que 2 semaines ?)"
 error.need-text-channel: "Veuillez saisir un salon textuel valide"
+error.message-not-found: "Le message n'a pas été trouvé, il est peut être dans un autre salon ?"
 
 command.mod.description: "%TARGET% a été sanctionné"
 command.mod.reason: "Motif"
