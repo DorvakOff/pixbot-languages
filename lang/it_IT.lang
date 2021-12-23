@@ -8,8 +8,8 @@ command.invalid-args: "Usa /%COMMAND% con opzioni !"
 
 error.not-in-bounds: "'%VAR%' non può essere > %MAX% oppure < %MIN% !"
 error.nothing-to-delete: "Niente da cancellare . . . (forse i messaggi sono vecchi da più di 2 settimane?)"
-error.need-text-channel: "Si prega di inserire un testo salotto valido"
-error.message-not-found: "Impossibile trovare il messaggio, forse è in un altro salotto?"
+error.need-text-channel: "Si prega di inserire un testo canale valido"
+error.message-not-found: "Non è stato possibile riscontrare il messaggio, forse è in un altro canale?"
 
 command.mod.description: "%TARGET% è stato sanzionato(a)"
 command.mod.reason: "Motivo"

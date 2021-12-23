@@ -9,7 +9,7 @@ command.invalid-args: "Use /%COMMAND% with options !"
 error.not-in-bounds: "'%VAR%' cannot be > %MAX% or < %MIN% !"
 error.nothing-to-delete: "Nothing to delete... (maybe messages are older than 2 weeks?)"
 error.need-text-channel: "Please provide a valid text channel"
-error.message-not-found: "The message cannot be found, maybe it's in another channel ?"
+error.message-not-found: "The message cannot be found, maybe it's in another channel?"
 
 command.mod.description: "%TARGET% has been sanctionned"
 command.mod.reason: "Reason"
