@@ -1,7 +1,9 @@
 # PixBot - Languages
 
 > The available languages for the Discord bot [PixBot](https://invite.pixbot.me)
-> 
+>
+> Support server : [![Support server](https://discordapp.com/api/guilds/781174618178060310/widget.png)](https://discord.pixbot.me)
+>
 > > Use the ``/config`` command to change the lang ! (require permission ``MANAGE_SERVER``)
 
 ## List of implemented languages
