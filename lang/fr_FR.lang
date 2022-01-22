@@ -35,6 +35,7 @@ embeds.commands.top.title: "Top du serveur %GUILD%"
 embeds.commands.globaltop.title: "Top à travers tous les serveurs"
 
 embeds.commands.config.title: "Configuration"
+embeds.commands.config.lang.edited: "Langue du bot changée à **%LANG%** (``%CODE%``)"
 
 variables.level: "Niveau"
 variables.exp: "Expérience"
