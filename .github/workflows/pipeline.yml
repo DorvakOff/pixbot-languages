@@ -18,7 +18,8 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source_file: 'PixBot/lang'
+          source_file: 'lang'
           destination_repo: 'PixTheBot/PixBot'
+          destination_folder: 'PixBot/lang'
           user_email: ${{ secrets.EMAIL }}
           user_name: 'DorvakOff'
