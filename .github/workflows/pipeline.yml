@@ -10,7 +10,7 @@ jobs:
       - name: Checking repository
         uses: actions/checkout@v2
       - name: Clearing extras
-        run: rm -r .github && rm .gitignore && rm README.md && rm -f crowdin.yml && mv lang/* / && rm lang
+        run: rm -r .github && rm .gitignore && rm README.md && rm -f crowdin.yml && mv lang/* ./ && rm lang
       - name: Displaying files
         run: tree
       - name: Pushing to another repository
