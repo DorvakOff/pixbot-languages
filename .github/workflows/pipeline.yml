@@ -1,0 +1,24 @@
+on:
+  push:
+    branches:
+      - main
+jobs:
+  update-langs:
+    name: Updating .lang files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checking repository
+        uses: actions/checkout@v2
+      - name: Clearing extras
+        run: rm -r .github && rm .gitignore && rm README.md && rm crowdin.yml
+      - name: Displaying files
+        run: tree
+      - name: Pushing to another repository
+        uses: dmnemec/copy_file_to_another_repo_action@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source_file: 'PixBot/lang'
+          destination_repo: 'PixTheBot/PixBot'
+          user_email: ${{ secrets.EMAIL }}
+          user_name: 'DorvakOff'
