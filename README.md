@@ -6,6 +6,6 @@
       
 [![Crowdin](https://badges.crowdin.net/pixbot/localized.svg)](https://translate.pixbot.me/project/pixbot)
 
-> The available languages for the Discord bot [PixBot](https://invite.pixbot.me)
+> The available languages for the Discord bot [PixBot](https://pixbot.me)
 >
 > > Use the ``/config`` command to change the lang ! (require permission ``MANAGE_SERVER``)
