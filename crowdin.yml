@@ -1,3 +1,3 @@
 files:
-  - source: /lang/Messages_en_US.properties
+  - source: /lang/Messages.properties
     translation: /lang/Messages_%locale_with_underscore%.properties
